@@ -6,12 +6,17 @@ INJECTED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant ano
 INJECTED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-41:12
 MERGED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-41:12
 MERGED from [:another_location_plugin] C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\build\another_location_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\4b75de4e982919f1b0500077c652881d\jetified-play-services-location-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\792892a7083917130fbc18623188f241\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\c930c5257d213c879a7d4be5ccb10d9b\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2fd9120a6da4df3dbabdd40f6a2d8995\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\68dbf8ea01a1dbd974fc87b5753550f0\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\eb26273f8f7192460456ce62b9bdf9ef\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\d9536c14ffde0b7289f12ba6def6bfa4\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\bc28a09d8d2212ffd5788fe6c1853326\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2e94107f30f39be366a17347c2bf100b\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\544eab86e7823cb4f6f6bbcd34094c52\core-1.2.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca6b214160bd0909b103aa12202ef51c\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2271d874344878e62b9a8e309af0c39d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\fb333fb43575d8a3b51161295454427f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
@@ -38,12 +43,22 @@ INJECTED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant ano
 		ADDED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\android\app\src\main\AndroidManifest.xml:1:11-69
 application
 ADDED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\android\app\src\main\AndroidManifest.xml:3:4-40:19
-MERGED from [androidx.core:core:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2e94107f30f39be366a17347c2bf100b\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2e94107f30f39be366a17347c2bf100b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\4b75de4e982919f1b0500077c652881d\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\4b75de4e982919f1b0500077c652881d\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\792892a7083917130fbc18623188f241\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\792892a7083917130fbc18623188f241\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\c930c5257d213c879a7d4be5ccb10d9b\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\c930c5257d213c879a7d4be5ccb10d9b\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\544eab86e7823cb4f6f6bbcd34094c52\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\544eab86e7823cb4f6f6bbcd34094c52\core-1.2.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\96aee308bccd03bc62c306516c23a410\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\96aee308bccd03bc62c306516c23a410\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2e94107f30f39be366a17347c2bf100b\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\544eab86e7823cb4f6f6bbcd34094c52\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\android\app\src\main\AndroidManifest.xml:4:9-56
 	android:icon
@@ -96,6 +111,16 @@ INJECTED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant ano
 INJECTED from C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\android\app\src\main\AndroidManifest.xml
 MERGED from [:another_location_plugin] C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\build\another_location_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:another_location_plugin] C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\build\another_location_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\4b75de4e982919f1b0500077c652881d\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\4b75de4e982919f1b0500077c652881d\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\792892a7083917130fbc18623188f241\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\792892a7083917130fbc18623188f241\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\c930c5257d213c879a7d4be5ccb10d9b\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\c930c5257d213c879a7d4be5ccb10d9b\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2fd9120a6da4df3dbabdd40f6a2d8995\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2fd9120a6da4df3dbabdd40f6a2d8995\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\68dbf8ea01a1dbd974fc87b5753550f0\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
@@ -106,8 +131,8 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\juanpablo.pereira\.gradle\ca
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\d9536c14ffde0b7289f12ba6def6bfa4\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\bc28a09d8d2212ffd5788fe6c1853326\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\bc28a09d8d2212ffd5788fe6c1853326\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2e94107f30f39be366a17347c2bf100b\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2e94107f30f39be366a17347c2bf100b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\544eab86e7823cb4f6f6bbcd34094c52\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\544eab86e7823cb4f6f6bbcd34094c52\core-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca6b214160bd0909b103aa12202ef51c\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca6b214160bd0909b103aa12202ef51c\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\2271d874344878e62b9a8e309af0c39d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
@@ -142,3 +167,17 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from [:another_location_plugin] C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\build\another_location_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
 	android:name
 		ADDED from [:another_location_plugin] C:\Users\juanpablo.pereira\Downloads\Developer\Flutter\Globant another location plugin\another_location_plugin\example\build\another_location_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\47c443fe9f250d18a9a4cd44fd0f677d\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\juanpablo.pereira\.gradle\caches\transforms-2\files-2.1\ca455f7b1a0447e077897016985d0894\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58

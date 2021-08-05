@@ -1,6 +1,7 @@
 abstract class Strings {
   static const String pluginChannelName = 'another_location_plugin';
   static const String permissionChannelName = 'permission_event_channel';
+  static const String locationChannelName = 'location_event_channel';
   static const String platformVersionMethod = 'getPlatformVersion';
   static const String initializePluginMethod = 'initializePlugin';
   static const String checkPermissionsMethod = 'checkPermissions';

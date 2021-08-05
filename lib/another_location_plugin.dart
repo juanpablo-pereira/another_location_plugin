@@ -6,10 +6,16 @@ import 'package:flutter/services.dart';
 class AnotherLocationPlugin {
   static const MethodChannel _channel =
       const MethodChannel(Strings.pluginChannelName);
+
   static const EventChannel _permissionEventChannel =
       EventChannel(Strings.permissionChannelName);
   static Stream<dynamic> permissionStream =
       _permissionEventChannel.receiveBroadcastStream();
+
+  static const EventChannel _locationEventChannel =
+      EventChannel(Strings.locationChannelName);
+  static Stream<dynamic> locationStream =
+      _locationEventChannel.receiveBroadcastStream();
 
   static Future<String?> get platformVersion async {
     final String? version = await _channel.invokeMethod(
@@ -39,11 +45,11 @@ class AnotherLocationPlugin {
     return;
   }
 
-  static Future<Map<dynamic, dynamic>> get lastCoordinates async {
-    final Map<dynamic, dynamic> coordinates = await _channel.invokeMethod(
+  static Future<void> get lastCoordinates async {
+    await _channel.invokeMethod(
       Strings.getLastLocationMethod,
     );
-    return coordinates;
+    return;
   }
 
   static Future<bool> get stopPlugin async {
