@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:another_location_plugin/another_location_plugin.dart';
 
 import 'utils/strings.dart';
-import 'widgets/location_card.dart';
+import 'widgets/location_page.dart';
 
 void main() {
   runApp(MyApp());
@@ -47,14 +47,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text(
-            Strings.locationTitle,
-          ),
-        ),
-        body: Center(
-          child: LocationCard(),
-        ),
+        body: LocationPage(),
       ),
     );
   }
